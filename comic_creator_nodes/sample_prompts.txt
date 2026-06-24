@@ -1,0 +1,37 @@
+# ============================================
+# COMIC PANEL PROMPTS
+# ============================================
+# FORMAT: image prompt || caption/narration text
+#
+# The || separator is optional. If omitted, that panel gets no caption.
+# Lines starting with # are comments (ignored).
+# Empty lines are ignored.
+#
+# The Prompt List node prepends your character prefix
+# and appends your quality suffix automatically.
+#
+# Write prompts in Flux prose style:
+# Subject + Setting + Details + Lighting + Atmosphere
+# ============================================
+
+# PAGE 1
+
+# Panel 1: Establishing shot
+A beautiful woman with long dark hair and green eyes is standing on the balcony of a modern high-rise apartment, looking out over a sprawling city skyline at dusk. She is wearing a fitted black cocktail dress. The golden hour light catches her face in profile. Cinematic composition, wide angle. || The city stretched out before her like a promise she no longer believed.
+
+# Panel 2: Interior
+The same woman is sitting at a glass desk inside the apartment, typing on a laptop. The room has minimalist decor with warm ambient lighting from a floor lamp. Medium shot from slightly above. Soft shadows. || Three months since the last message. She had stopped counting.
+
+# Panel 3: Close-up
+Extreme close-up of the woman's face as she reads something surprising on her screen. Her green eyes are wide, lips slightly parted. The laptop screen casts a cool blue light on her features. Dramatic, tense atmosphere.
+
+# Panel 4: Action
+The woman is grabbing a leather jacket from a coat rack and heading toward the apartment door with urgency. Motion blur on her movement. The hallway light spills in through the opening door. Dynamic angle, slight dutch tilt. || She was already out the door before the thought finished forming.
+
+# PAGE 2
+
+# Panel 5: Street scene
+The woman is walking briskly down a rain-slicked city street at night. Neon signs reflect in puddles around her feet. She is wearing the leather jacket over her dress. Street photography style, shallow depth of field on her figure.
+
+# Panel 6: Confrontation
+The woman is standing face to face with a tall man in a dark suit under a streetlamp. Both figures are tense. The light creates a pool of warm yellow between them while the rest of the street falls into shadow. Noir atmosphere, high contrast. || "You said you would never come back."
